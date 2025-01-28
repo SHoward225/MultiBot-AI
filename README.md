@@ -93,8 +93,8 @@ streamlit run app.py
 ## 📩 Contact
 
 - 📧 Email : stephane.kouadio.1811@gmail.com | konan-junior-kouadio@grenoble-inp.org
-- 💼 LinkedIn : [[Konan Junior Aimé Stéphane KOUADIO]](https://www.linkedin.com/in/kouadio-konan-junior-aim%C3%A9-st%C3%A9phane/)
-- 🐙 GitHub : [[Stéphane KOUADIO]](https://github.com/SHoward225)
+- 💼 LinkedIn : [Konan Junior Aimé Stéphane KOUADIO](https://www.linkedin.com/in/kouadio-konan-junior-aim%C3%A9-st%C3%A9phane/)
+- 🐙 GitHub : [Stéphane KOUADIO](https://github.com/SHoward225)
 
 
 
