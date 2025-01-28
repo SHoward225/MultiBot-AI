@@ -52,3 +52,48 @@ source chat_venv/bin/activate  # Sur Windows: chat_venv\Scripts\activate
 # Installer les dépendances
 pip install --upgrade pip
 pip install -r requirements.txt
+```
+
+### 1️⃣ **Lancer l'applicationn**
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📸 Aperçu de l'interface
+
+---
+
+## 📌 Fonctionnalités à venir
+
+🔥 Intégration d'un modèle LLM local (GPT-J, Mistral, Falcon)
+🎯 Amélioration de la gestion du contexte des conversations
+📊 Intégration d'un tableau de bord pour visualiser les réponses
+
+---
+
+## 🏆 Pourquoi ce projet ?
+💡 MultiBot-AI a été conçu pour explorer les capacités des modèles IA locaux et développer des applications multimodales confidentielles et performantes.
+
+👨‍💻 Ce projet démontre mes compétences en NLP, Machine Learning et développement logiciel. Il est en constante évolution, et toute contribution est la bienvenue ! 🚀
+
+--- 
+
+## 🤝 Contribuer
+📢 Suggestions et contributions bienvenues !
+
+- Forkez le projet
+- Créez une **issue** pour proposer des améliorations
+- Soumettez une **Pull Request** avec vos modifications
+
+---
+
+## 📩 Contact
+
+📧 Email : stephane.kouadio.1811@gmail.com | konan-junior-kouadio@grenoble-inp.org
+💼 LinkedIn : [[TON LIEN LINKEDIN]](https://www.linkedin.com/in/kouadio-konan-junior-aim%C3%A9-st%C3%A9phane/)
+🐙 GitHub : https://github.com/SHoward225
+
+
+
