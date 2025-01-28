@@ -52,9 +52,10 @@ source chat_venv/bin/activate  # Sur Windows: chat_venv\Scripts\activate
 # Installer les dépendances
 pip install --upgrade pip
 pip install -r requirements.txt
+
 ```
 
-### 1️⃣ **Lancer l'applicationn**
+### 2️⃣ **Lancer l'applicationn**
 ```bash
 streamlit run app.py
 ```
@@ -91,9 +92,9 @@ streamlit run app.py
 
 ## 📩 Contact
 
-📧 Email : stephane.kouadio.1811@gmail.com | konan-junior-kouadio@grenoble-inp.org
-💼 LinkedIn : [[TON LIEN LINKEDIN]](https://www.linkedin.com/in/kouadio-konan-junior-aim%C3%A9-st%C3%A9phane/)
-🐙 GitHub : https://github.com/SHoward225
+- 📧 Email : stephane.kouadio.1811@gmail.com | konan-junior-kouadio@grenoble-inp.org
+- 💼 LinkedIn : [[TON LIEN LINKEDIN]](https://www.linkedin.com/in/kouadio-konan-junior-aim%C3%A9-st%C3%A9phane/)
+- 🐙 GitHub : https://github.com/SHoward225
 
 
 
