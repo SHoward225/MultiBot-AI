@@ -68,9 +68,9 @@ streamlit run app.py
 
 ## 📌 Fonctionnalités à venir
 
-🔥 Intégration d'un modèle LLM local (GPT-J, Mistral, Falcon)
-🎯 Amélioration de la gestion du contexte des conversations
-📊 Intégration d'un tableau de bord pour visualiser les réponses
+- 🔥 Intégration d'un modèle LLM local (GPT-J, Mistral, Falcon)
+- 🎯 Amélioration de la gestion du contexte des conversations
+- 📊 Intégration d'un tableau de bord pour visualiser les réponses
 
 ---
 
